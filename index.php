@@ -9,7 +9,8 @@
         <title>Fire CMS :: Acceuil</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     </head>
     <body>
@@ -18,7 +19,6 @@
         <![endif]-->
 
         
-        <p>Ceci est le premier commit de ce projet</p>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
